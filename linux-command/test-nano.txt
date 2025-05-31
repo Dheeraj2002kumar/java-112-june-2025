@@ -1,0 +1,21 @@
+The is written using commad line of "nano" command...
+
+There is some commad written below:-
+
+1. mkdir <directory name> --> create directory
+2. cd <directory name> --> change directory
+3. cd .. --> go one step back directory
+4. cd - --> go previous wording directory
+5. cd / --> go root directory
+6. touch <file  name> --> create file eg. "test.txt" 
+7. rmdir <directory name> --> remove empty directory.
+8. rm <file name> --> remove file.
+9. rm -r <direcoty name> -->  remove directory and also it will remove all file inside the directory.
+10. cp <source location> <destination location> --> copy the content
+11. mv <source location> <destination location> --> move the file
+12. cat <file name> --> show the content of the file 
+13. cat -n <file name> --> show the content of the file with line number.
+14. ls --> list all the file 
+15. ls -a --> list all the file and also show hidden file 
+16. ls -l --> list all file with when it is created and who is created.
+17. tree --> tree like folder structure 
