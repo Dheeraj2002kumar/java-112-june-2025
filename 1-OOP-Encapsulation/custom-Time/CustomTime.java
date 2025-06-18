@@ -31,7 +31,7 @@ public class CustomTime {
             hour = newHour;
         }
         else {
-            System.out.println("Error: hour must be between 0 and 2");
+            System.out.println("Error: hour must be between 0 and 23");
             hour = 0;
         }
 
